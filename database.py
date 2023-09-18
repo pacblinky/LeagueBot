@@ -8,6 +8,7 @@ class SQL:
         self.port = port
         self.username = username
         self.password = password
+        self.db = db
 
     async def connect(self):
         if self.conn is None:
