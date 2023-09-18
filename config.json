@@ -1,0 +1,11 @@
+{
+    "BOT_TOKEN": "",
+    "BOT_PREFIX": "!",
+    "BOT_USE_PRESENCE": true,
+    "BOT_PRESENCE": "League Bot",
+    "SQL_HOST": "localhost",
+    "SQL_PORT": 3306,
+    "SQL_USERNAME": "",
+    "SQL_PASSWORD": "",
+    "SQL_DATABASE": ""
+}
